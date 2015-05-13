@@ -1,5 +1,31 @@
 # Changelog
 
+## 0.7.1
+- Fix broken icons
+
+## 0.7.0
+- Store package style sheets in the styles/ directory instead of stylesheets/ in the color-picker package
+
+## 0.6.3
+- Make tab updates backwards compatible
+
+## 0.6.2
+- Adjust line number padding
+- Fix deprecation errors
+- Add icon support for coffee-react files
+- Enhance appearance of checkboxes in settings view
+- Add checkbox background color & checkbox tick color
+
+## 0.6.1
+- Update changelog
+
+## 0.6.0
+- Update for new settings view
+
+## 0.5.1
+- Fix width on find & replace buttons
+- Update screenshot
+
 ## 0.5.0
 - Add Illustrator source file for icons
 - Add additional icon support:
